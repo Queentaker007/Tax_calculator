@@ -5,6 +5,7 @@
 - You should also implement the function taxes that shows how much taxes this personna has to pay
 - Implement the repr function it should show the name of the person their income and the taxes they have to pay
 - In this state taxing is progressive ( see example below)to do this you should use the given dictonary that is provided "**tax_brackets**" so that you can calculate the tax
+- Here is a video that explains progressive taxing well **https://www.youtube.com/watch?v=SJL4UT4wAxc&ab_channel=TDAmeritrade**
 ## The dictionary tax_brackets 
                 
                 tax-brackets ={20000: 0.05,
