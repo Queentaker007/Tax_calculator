@@ -3,6 +3,7 @@
 - The income should be private
 - You should implement the function get_income, so that one can see the persons income
 - You should also implement the function taxes that shows how much taxes this personna has to pay
+- Implement the repr function it should show the name of the person their income and the taxes they have to pay
 - In this state taxing is progressive ( see example below)to do this you should use the given dictonary "**tax_brackets**" so that you can calculate the tax
 ## The dictionary tax_brackets 
                 
